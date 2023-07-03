@@ -1,1 +1,1 @@
-# DisconTrade
+# DiscounTrade
